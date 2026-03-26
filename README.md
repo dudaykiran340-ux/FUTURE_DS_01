@@ -1,5 +1,5 @@
 # Task 1: Business Sales Performance Analytics
-##Future Interns - Data Science & Analytics Internship
+## Future Interns - Data Science & Analytics Internship
 
 ### Project Overview
 Analyzed business sales data to identify revenue trends, top-selling products, high-value categories, and regional performance.
